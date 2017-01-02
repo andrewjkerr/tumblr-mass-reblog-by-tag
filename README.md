@@ -1,6 +1,6 @@
 # Tumblr Mass Reblog By Tag
 
-A simple script to reblog a number of tagged posts to a Tumblr blog. Uses the [`tumblr_client`](https://github.com/Tumblr/tumblr_client) Ruby gem to make the API calls.
+A simple script to reblog a number of tagged posts to a Tumblr blog. Uses the [`tumblr_client`](https://github.com/Tumblr/tumblr_client) Ruby gem to make the API calls. Currently used in production on [donuts.tumblr.com](https://donuts.tumblr.com) and [fuckyeahcorgs.tumblr.com](https://fuckyeahcorgs.tumblr.com).
 
 ## Installation
 
